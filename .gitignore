@@ -1,0 +1,27 @@
+# Visual Studio 
+.vs/ 
+*.sln 
+*.suo 
+*.user 
+*.userosscache 
+*.sln.docstates 
+ 
+# Unreal Engine 
+Binaries/ 
+Build/ 
+DerivedDataCache/ 
+Intermediate/ 
+Saved/ 
+*.xcodeproj 
+*.xcworkspace 
+ 
+# Archivos compilados 
+*.obj 
+*.pdb 
+*.idb 
+*.log 
+*.pch 
+ 
+# Archivos especificos de usuario 
+*.VC.db 
+*.VC.opendb 
