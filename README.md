@@ -17,7 +17,7 @@
 
 
 
-⚠️ **Este juego está en desarrollo y algunas mecánicas aún no están implementadas. Incluso este README está incompleto.**
+⚠️ **Este juego está en desarrollo y algunas mecánicas aún no están implementadas. Incluso este README está incompleto.** ⚠️
 
 ---
 
