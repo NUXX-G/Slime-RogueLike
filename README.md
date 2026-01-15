@@ -68,8 +68,7 @@ Este es un juego **roguelike**, donde cada partida ofrece un reto diferente: map
 | 1     | Conejo        | Dash                    |
 | 2     | Escorpión     | Cola venenosa           |
 | 3     | Araña         | Telaraña                |
-| 4     | Lobo          | Mordisco rápido         |
-| 5     | Dragón (Boss) | Fuego de dragón         |
+| 4     | Dragón (Boss) | Fuego de dragón         |
 
 ---
 
