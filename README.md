@@ -15,6 +15,8 @@
 
 **Estado:** En desarrollo ⚠️
 
+
+
 ⚠️ **Este juego está en desarrollo y algunas mecánicas aún no están implementadas. Incluso este README está incompleto.**
 
 ---
