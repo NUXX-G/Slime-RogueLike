@@ -6,9 +6,13 @@
 **Desarrollado por:** [Yeray Trejo Sánchez (Petter5-5)](https://github.com/Petter5-5) & [Nelson Filipe Fardilha Karlsson (NUXX-G)](https://github.com/NUXX-G)
 
 **Motor:** Unreal Engine 5.7
+
 **Lenguaje:** C++
+
 **Modelado 3D:** Blender
+
 **Perspectiva:** Tercera persona
+
 **Estado:** En desarrollo ⚠️
 
 ⚠️ **Este juego está en desarrollo y algunas mecánicas aún no están implementadas. Incluso este README está incompleto.**
