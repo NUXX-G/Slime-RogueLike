@@ -1,7 +1,7 @@
 
 ---
 
-# Slime’s Vengeance 
+# Slayme 
 
 **Desarrollado por:** [Yeray Trejo Sánchez (Petter5-5)](https://github.com/Petter5-5) & [Nelson Filipe Fardilha Karlsson (NUXX-G)](https://github.com/NUXX-G)
 
@@ -17,13 +17,13 @@
 
 ## Descripción
 
-En **Slime’s Vengeance**, juegas como un slime decidido a vengar la muerte de su esposa a manos de un dragón. Su búsqueda lo lleva a adentrarse en una **dungeon generada proceduralmente**, enfrentándose a enemigos únicos y poderosos jefes.
+En **Slayme**, juegas como un slime decidido a vengar la muerte de su esposa a manos de un dragón. Su búsqueda lo lleva a adentrarse en una **dungeon generada proceduralmente**, enfrentándose a enemigos únicos y poderosos jefes.
 
 Este es un juego **roguelike**, donde cada partida ofrece un reto diferente: mapas aleatorios, enemigos variados y habilidades únicas.
 
 ---
 
-##  Mecánicas principales
+##  Mecánicas principales (Falta poner mas mecanicas)
 
 * **Aprender habilidades de los enemigos:**
   Cuando el slime derrota a un enemigo, puede **adoptar su habilidad**:
@@ -50,6 +50,7 @@ Este es un juego **roguelike**, donde cada partida ofrece un reto diferente: map
   * Sistema de **objetos y potenciadores**
   * Optimización de **interfaz y HUD**
   * Efectos visuales y de sonido más elaborados
+  * Y MUCHO MAS
 
 ---
 
@@ -88,10 +89,7 @@ Este es un juego **roguelike**, donde cada partida ofrece un reto diferente: map
 
 *(Agregar aquí imágenes o gifs para mostrar la jugabilidad y enemigos, por ejemplo:)*
 
-```markdown
-![Slime atacando](imagenes/slime_attack.png)
-![Mapa procedural](imagenes/mapa.gif)
-```
+
 
 ---
 
