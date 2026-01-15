@@ -36,8 +36,9 @@ Este es un juego **roguelike**, donde cada partida ofrece un reto diferente: map
 
   * Escorpión → **Cola venenosa**
   * Conejo → **Dash rápido**
-  * Araña → **Telaraña para inmovilizar enemigos**
-    Todas las habilidades tienen un **tiempo de enfriamiento**.
+  * Araña → **Telaraña para el movimiento**
+
+  **Todas las habilidades tienen un **tiempo de enfriamiento**.
 
 * **Progresión por niveles:**
 
@@ -56,7 +57,7 @@ Este es un juego **roguelike**, donde cada partida ofrece un reto diferente: map
   * Sistema de **objetos y potenciadores**
   * Optimización de **interfaz y HUD**
   * Efectos visuales y de sonido más elaborados
-  * Y MUCHO MAS
+  * Y MUCHO MAS ⚠️
 
 ---
 
