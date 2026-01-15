@@ -83,7 +83,7 @@ Este es un juego **roguelike**, donde cada partida ofrece un reto diferente: map
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/NUXX-G/Slimes-Vengeance.git
+   git clone https://github.com/NUXX-G/Slayme
    ```
 2. Abre el proyecto en **Unreal Engine 5.7**.
 3. Compila el proyecto usando **C++**.
